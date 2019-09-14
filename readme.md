@@ -10,10 +10,18 @@
 
 <h2>Requisitos del sistema</h2>
 <p>Los siguientes son los requerimientos deseables para el buen funcionamiento del programa:<br>
-▶️    Sistema operativo Windows 10.<br>
-▶️    2.5 GB disponibles de espacio en disco.<br>
-▶️    Acceso a internet y a las fuentes de información contempladas por el programa.<br>
-▶️    Acceso a cuenta de Microsoft Office 365 y/o software Microsoft Outlook instalado en el equipo y funcional.</p>
+▶️&nbsp;&nbsp;&nbsp;&nbsp;Sistema operativo Windows 10.<br>
+▶️&nbsp;&nbsp;&nbsp;&nbsp;2.5 GB disponibles de espacio en disco.<br>
+▶️&nbsp;&nbsp;&nbsp;&nbsp;Acceso a internet y a las fuentes de información contempladas por el programa.<br>
+▶️&nbsp;&nbsp;&nbsp;&nbsp;Acceso a cuenta de Microsoft Office 365 y/o software Microsoft Outlook instalado en el equipo y funcional.</p>
+
+<h2>Funcionalidades del programa</h2>
+
+🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Recopilar</b> información de sitios de internet. El programa implementa elementos avanzados de webscraping para buscar y obtener información de sitios web de interés.
+🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Analizar</b> dicha información para determinar su relevancia según los parámetros definidos por el usuario (Palabras clave).
+🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Consolidar y almacenar</b> la información que resulte ser relevante de manera que quede disponible para aprovechamiento del usuario en cualquier momento.
+🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Distribuir</b> la información relevante a los destinatarios interesados de una forma clara y organizada. 
+
 
 
 <p><em>&#60TopNews&#47&#62</em> Irá siendo mejorado y adaptado a diferentes versiones de Python y otros lenguajes con el paso del tiempo.</p>
