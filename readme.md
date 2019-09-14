@@ -8,7 +8,7 @@
 
 <p>Este programa fue desarrollado utilizando el lenguaje Python3.7 y el framework Kivy, complementado con HTML y CSS para las visualizaciones y reportería.</p>
 
-<img src="https://imgur.com/21MSh38"></img>
+<img src="https://i.imgur.com/21MSh38.png"></img>
 
 
 <h2>Requisitos del sistema</h2>
