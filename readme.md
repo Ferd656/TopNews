@@ -24,7 +24,8 @@
 🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Analizar</b> dicha información para determinar su relevancia según los parámetros definidos por el usuario (Palabras clave).<br>
 🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Consolidar y almacenar</b> la información que resulte ser relevante de manera que quede disponible para aprovechamiento del usuario en cualquier momento.<br>
 🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Distribuir</b> la información relevante a los destinatarios interesados de una forma clara y organizada. 
-
+<br>
+<p>Si desea colaborar con este proyecto y ayudarlo a mejorar, puede ponerse en contacto con el Desarrollador.</p>
 ---
 
 
