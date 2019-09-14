@@ -17,9 +17,9 @@
 
 <h2>Funcionalidades del programa</h2>
 
-🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Recopilar</b> información de sitios de internet. El programa implementa elementos avanzados de webscraping para buscar y obtener información de sitios web de interés.
-🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Analizar</b> dicha información para determinar su relevancia según los parámetros definidos por el usuario (Palabras clave).
-🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Consolidar y almacenar</b> la información que resulte ser relevante de manera que quede disponible para aprovechamiento del usuario en cualquier momento.
+🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Recopilar</b> información de sitios de internet. El programa implementa elementos avanzados de webscraping para buscar y obtener información de sitios web de interés.<br>
+🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Analizar</b> dicha información para determinar su relevancia según los parámetros definidos por el usuario (Palabras clave).<br>
+🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Consolidar y almacenar</b> la información que resulte ser relevante de manera que quede disponible para aprovechamiento del usuario en cualquier momento.<br>
 🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Distribuir</b> la información relevante a los destinatarios interesados de una forma clara y organizada. 
 
 
