@@ -8,6 +8,9 @@
 
 <p>Este programa fue desarrollado utilizando el lenguaje Python3.7 y el framework Kivy, complementado con HTML y CSS para las visualizaciones y reportería.</p>
 
+<img src="//imgur.com/a/veNbNHj"></img>
+
+
 <h2>Requisitos del sistema</h2>
 <p>Los siguientes son los requerimientos deseables para el buen funcionamiento del programa:<br>
 ▶️&nbsp;&nbsp;&nbsp;&nbsp;Sistema operativo Windows 10.<br>
