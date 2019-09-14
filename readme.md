@@ -25,7 +25,10 @@
 🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Consolidar y almacenar</b> la información que resulte ser relevante de manera que quede disponible para aprovechamiento del usuario en cualquier momento.<br>
 🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Distribuir</b> la información relevante a los destinatarios interesados de una forma clara y organizada. 
 
+---
 
+
+---
 
 <p><em>&#60TopNews&#47&#62</em> Irá siendo mejorado y adaptado a diferentes versiones de Python y otros lenguajes con el paso del tiempo.</p>
 <p>Puedes apoyar el trabajo realizando una donación voluntaria mediante el servicio Paypal haciendo click en el siguiente enlace:</p>
