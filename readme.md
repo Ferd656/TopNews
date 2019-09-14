@@ -5,6 +5,7 @@
 
 <img src="https://i.imgur.com/21MSh38.png"></img>
 
+📖Consulte la GUIA_DE_USO.pfd, localizada en este repositorio.
 
 <h2>Requisitos del sistema</h2>
 <p>Los siguientes son los requerimientos deseables para el buen funcionamiento del programa:<br>
