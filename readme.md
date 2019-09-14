@@ -1,9 +1,4 @@
----
-
-
----
-
-<h1 id="tabla-postgre">&#60TopNews&#47&#62</h1>
+<h1>&#60TopNews&#47&#62</h1>
 <p><em>versión Beta</em></p>
 
 <p>Este programa fue desarrollado utilizando el lenguaje Python3.7 y el framework Kivy, complementado con HTML y CSS para las visualizaciones y reportería.</p>
