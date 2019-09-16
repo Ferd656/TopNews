@@ -24,10 +24,9 @@
 
 ---
 
-<p>Si desea colaborar con este proyecto y ayudarlo a mejorar, puede ponerse en contacto con el Desarrollador.</p>
+<p><em>&#60TopNews&#47&#62</em> Irá siendo mejorado y adaptado a diferentes versiones de Python y otros lenguajes con el paso del tiempo. Si desea colaborar con este proyecto y ayudarlo a mejorar, no dude en ponerse en contacto con el <a href="https://www.linkedin.com/in/ferdinandfeoli">Desarrollador</a>.</p>
 
 ---
 
-<p><em>&#60TopNews&#47&#62</em> Irá siendo mejorado y adaptado a diferentes versiones de Python y otros lenguajes con el paso del tiempo.</p>
 <p>Puedes apoyar el trabajo realizando una donación voluntaria mediante el servicio Paypal haciendo click en el siguiente enlace:</p>
 <p><a href="https://paypal.me/Feoli"><img src="https://lh3.googleusercontent.com/XPKrFY-av-IOwcY1a8ff91evfQUfxPdlk0fS4WtHitOyyixqvYifrTUZYAU4eCKRICWHvBW5wqE_Pw=s235" alt="enter image description here"></a></p>
