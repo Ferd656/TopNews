@@ -28,10 +28,10 @@
 
 <h2>Capturas</h2>
 
-Selección sesión Office365/Outlook
+<p>Selección sesión Office365/Outlook</p>
 <img src="https://drive.google.com/uc?export=view&id=12PeI6UQY7NourkbnkQEaF5q-KnxKrrP4"></img>
 
-Ventana principal
+<p>Ventana principal</p>
 <img src="https://drive.google.com/uc?export=view&id=1klW7JxN-S4BTgbcDeGYILqWb2P6liM5N"></img>
 
 ---
