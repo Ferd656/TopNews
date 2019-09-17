@@ -24,7 +24,7 @@
 
 <h2>Enlace de descarga</h2>
 
-<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1b3yCz7XCjG_PTS2wo7Z9I6020eFCmAgq/view?usp=sharing" alt="click me">Descargar ejecutable</a>
+<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1b3yCz7XCjG_PTS2wo7Z9I6020eFCmAgq/view?usp=sharing" alt="Descargar">Descargar ejecutable</a>
 
 <h2>Capturas</h2>
 
