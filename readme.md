@@ -24,7 +24,7 @@
 
 <h2>Enlace de descarga</h2>
 
-<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1b3yCz7XCjG_PTS2wo7Z9I6020eFCmAgq/view?usp=sharing" alt="Descargar"><img src="http://a1360.phobos.apple.com/us/r30/Purple6/v4/90/e9/fe/90e9fe6f-9083-c98a-b67a-efa3f3561787/mzl.tgwolkmj.png" height="25" width="25"></img><font size="5">Descargar ejecutable</font></a>
+<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1b3yCz7XCjG_PTS2wo7Z9I6020eFCmAgq/view?usp=sharing" alt="Descargar" style="font-size:40px;"><img src="http://a1360.phobos.apple.com/us/r30/Purple6/v4/90/e9/fe/90e9fe6f-9083-c98a-b67a-efa3f3561787/mzl.tgwolkmj.png" height="25" width="25"></img>Descargar ejecutable</a>
 
 <h2>Capturas</h2>
 
