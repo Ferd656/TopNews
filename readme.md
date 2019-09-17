@@ -24,7 +24,7 @@
 
 <h2>Enlace de descarga</h2>
 
-https://drive.google.com/file/d/1b3yCz7XCjG_PTS2wo7Z9I6020eFCmAgq/view?usp=sharing
+<a href="https://drive.google.com/file/d/1b3yCz7XCjG_PTS2wo7Z9I6020eFCmAgq/view?usp=sharing" alt="click me">Descargar &#60TopNews&#47&#62 (Beta)</a>
 
 
 
