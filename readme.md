@@ -28,25 +28,25 @@
 
 <h2>Capturas</h2>
 
-<p>Selección sesión Office365/Outlook</p>
+<p><b>Selección sesión Office365/Outlook</b></p>
 <img src="https://drive.google.com/uc?export=view&id=12PeI6UQY7NourkbnkQEaF5q-KnxKrrP4"></img>
 
-<p>Ventana principal</p>
+<p><b>Ventana principal</b></p>
 <img src="https://drive.google.com/uc?export=view&id=1klW7JxN-S4BTgbcDeGYILqWb2P6liM5N"></img>
 
-<p>Ventana fuentes de información</p>
+<p><b>Ventana fuentes de información</b></p>
 <img src="https://drive.google.com/uc?export=view&id=1x0QoTP2GzSIf3YFewUYhmI1uuj-5ljgO"></img>
 
-<p>Ventana palabras clave</p>
+<p><b>Ventana palabras clave</b></p>
 <img src="https://drive.google.com/uc?export=view&id=1nk8hlZPvG1Wokoe0ihNyaNlhqI1K7tAe"></img>
 
-<p>En ejecución</p>
+<p><b>En ejecución</b></p>
 <img src="https://drive.google.com/uc?export=view&id=1cBz9oLtR1Ls8fnzxXPpM54yGoapkmwVu"></img>
 
-<p>E-mail</p>
+<p><b>E-mail</b></p>
 <img src="https://drive.google.com/uc?export=view&id=1fUMw0HlI8-Wy72asBQOa5iaby6en_1-a"></img>
 
-<p>Análisis</p>
+<p><b>Análisis</b></p>
 <img src="https://drive.google.com/uc?export=view&id=14AIVhZtuLLAebxGKrFB6zY9HxS0HytIJ"></img>
 
 ---
@@ -54,6 +54,6 @@
 <p><em>&#60TopNews&#47&#62</em> Irá siendo mejorado y adaptado a diferentes versiones de Python y otros lenguajes con el paso del tiempo. Si desea colaborar con este proyecto y ayudarlo a mejorar, no dude en ponerse en contacto con el <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ferdinandfeoli">Desarrollador</a>.</p>
 
 ---
-a
+
 <p>Puedes apoyar el trabajo realizando una donación voluntaria mediante el servicio Paypal haciendo click en el siguiente enlace:</p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://paypal.me/Feoli"><img src="https://lh3.googleusercontent.com/XPKrFY-av-IOwcY1a8ff91evfQUfxPdlk0fS4WtHitOyyixqvYifrTUZYAU4eCKRICWHvBW5wqE_Pw=s235" alt="click me"></a></p>
