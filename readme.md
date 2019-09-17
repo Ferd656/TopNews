@@ -24,16 +24,16 @@
 
 <h2>Enlace de descarga</h2>
 
-<a href="https://drive.google.com/file/d/1b3yCz7XCjG_PTS2wo7Z9I6020eFCmAgq/view?usp=sharing" alt="click me" target="_blank">Descargar ejecutable</a>
+<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1b3yCz7XCjG_PTS2wo7Z9I6020eFCmAgq/view?usp=sharing" alt="click me">Descargar ejecutable</a>
 
 <h2>Capturas</h2>
 
 
 ---
 
-<p><em>&#60TopNews&#47&#62</em> Irá siendo mejorado y adaptado a diferentes versiones de Python y otros lenguajes con el paso del tiempo. Si desea colaborar con este proyecto y ayudarlo a mejorar, no dude en ponerse en contacto con el <a href="https://www.linkedin.com/in/ferdinandfeoli" target="_blank">Desarrollador</a>.</p>
+<p><em>&#60TopNews&#47&#62</em> Irá siendo mejorado y adaptado a diferentes versiones de Python y otros lenguajes con el paso del tiempo. Si desea colaborar con este proyecto y ayudarlo a mejorar, no dude en ponerse en contacto con el <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ferdinandfeoli">Desarrollador</a>.</p>
 
 ---
 
 <p>Puedes apoyar el trabajo realizando una donación voluntaria mediante el servicio Paypal haciendo click en el siguiente enlace:</p>
-<p><a href="https://paypal.me/Feoli"><img src="https://lh3.googleusercontent.com/XPKrFY-av-IOwcY1a8ff91evfQUfxPdlk0fS4WtHitOyyixqvYifrTUZYAU4eCKRICWHvBW5wqE_Pw=s235" alt="click me" target="_blank"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://paypal.me/Feoli"><img src="https://lh3.googleusercontent.com/XPKrFY-av-IOwcY1a8ff91evfQUfxPdlk0fS4WtHitOyyixqvYifrTUZYAU4eCKRICWHvBW5wqE_Pw=s235" alt="click me"></a></p>
