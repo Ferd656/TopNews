@@ -22,6 +22,12 @@
 🤖&nbsp;&nbsp;&nbsp;&nbsp;<b>Distribuir</b> la información relevante a los destinatarios interesados de una forma clara y organizada. 
 <br>
 
+<h2>Enlace de descarga</h2>
+
+https://drive.google.com/file/d/1b3yCz7XCjG_PTS2wo7Z9I6020eFCmAgq/view?usp=sharing
+
+
+
 ---
 
 <p><em>&#60TopNews&#47&#62</em> Irá siendo mejorado y adaptado a diferentes versiones de Python y otros lenguajes con el paso del tiempo. Si desea colaborar con este proyecto y ayudarlo a mejorar, no dude en ponerse en contacto con el <a href="https://www.linkedin.com/in/ferdinandfeoli">Desarrollador</a>.</p>
