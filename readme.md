@@ -24,7 +24,7 @@
 
 <h2>Enlace de descarga</h2>
 
-<p style="font-size:100px;"><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1b3yCz7XCjG_PTS2wo7Z9I6020eFCmAgq/view?usp=sharing" alt="Descargar"><img src="http://a1360.phobos.apple.com/us/r30/Purple6/v4/90/e9/fe/90e9fe6f-9083-c98a-b67a-efa3f3561787/mzl.tgwolkmj.png" height="25" width="25"></img>Descargar ejecutable</a></p>
+<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1b3yCz7XCjG_PTS2wo7Z9I6020eFCmAgq/view?usp=sharing" alt="Descargar"><img src="http://a1360.phobos.apple.com/us/r30/Purple6/v4/90/e9/fe/90e9fe6f-9083-c98a-b67a-efa3f3561787/mzl.tgwolkmj.png" height="25" width="25"></img>Descargar ejecutable</a>
 
 <h2>Capturas</h2>
 
@@ -33,6 +33,21 @@
 
 <p>Ventana principal</p>
 <img src="https://drive.google.com/uc?export=view&id=1klW7JxN-S4BTgbcDeGYILqWb2P6liM5N"></img>
+
+<p>Ventana fuentes de información</p>
+<img src="https://drive.google.com/uc?export=view&id=1x0QoTP2GzSIf3YFewUYhmI1uuj-5ljgO"></img>
+
+<p>Ventana palabras clave</p>
+<img src="https://drive.google.com/uc?export=view&id=1nk8hlZPvG1Wokoe0ihNyaNlhqI1K7tAe"></img>
+
+<p>En ejecución</p>
+<img src="https://drive.google.com/uc?export=view&id=1cBz9oLtR1Ls8fnzxXPpM54yGoapkmwVu"></img>
+
+<p>E-mail</p>
+<img src="https://drive.google.com/uc?export=view&id=1fUMw0HlI8-Wy72asBQOa5iaby6en_1-a"></img>
+
+<p>Análisis</p>
+<img src="https://drive.google.com/uc?export=view&id=14AIVhZtuLLAebxGKrFB6zY9HxS0HytIJ"></img>
 
 ---
 
