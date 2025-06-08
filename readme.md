@@ -1,5 +1,5 @@
 
-> ⚠️ This repository is deprecated and no longer maintained.
+> ⚠️ This repository is deprecated and no longer maintained. Feel free to contact <a target="_blank" rel="noopener noreferrer" href="https://t.me/skogs_son">developer</a> to give ideas or know about further projects.
 
 <h1>&#60TopNews&#47&#62</h1>
 <p><em>versión Beta</em></p>
