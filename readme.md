@@ -66,3 +66,8 @@
 
 <p>Puedes apoyar el trabajo realizando una donación voluntaria mediante el servicio Paypal haciendo click en el siguiente enlace:</p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://paypal.me/Feoli"><img src="https://lh3.googleusercontent.com/XPKrFY-av-IOwcY1a8ff91evfQUfxPdlk0fS4WtHitOyyixqvYifrTUZYAU4eCKRICWHvBW5wqE_Pw=s235" alt="click me"></a></p>
+
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
