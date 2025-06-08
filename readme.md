@@ -70,4 +70,7 @@
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+This project is licensed under the  
+<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">
+  Creative Commons Attribution-ShareAlike 4.0 International License
+</a>.
