@@ -60,7 +60,7 @@
 
 ---
 
-<p><em>&#60TopNews&#47&#62</em> Irá siendo mejorado y adaptado a diferentes versiones de Python y otros lenguajes con el paso del tiempo. Si desea colaborar con este proyecto y ayudarlo a mejorar, no dude en ponerse en contacto con el <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ferdinandfeoli">Desarrollador</a>.</p>
+<p><em>&#60TopNews&#47&#62</em> está desactualizado y fuera de mantenimeinto. Ante cualquier duda o sugerencia, no dude en ponerse en contacto con el <a target="_blank" rel="noopener noreferrer" href="https://t.me/skogs_son">Desarrollador</a>.</p>
 
 ---
 
